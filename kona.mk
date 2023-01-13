@@ -423,7 +423,7 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
     hardware/google/interfaces \
     hardware/google/pixel \
-    hardware/xiaomi \
+    vendor/hardware/xiaomi \
     vendor/qcom/opensource/usb/etc
 
 # Telephony
